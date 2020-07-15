@@ -1,0 +1,33 @@
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: "Montserrat", sans-serif; /* this should be the rest of the output you got from Google fonts */
+    background-color: #008e67; 
+}
+
+  h1 {
+    font-size: 90px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;    
+    color:#008e67;
+    text-shadow: 1px 1px 3px black;
+  }
+  
+  p, li {
+    font-size: 17px;    
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  body {
+    width: 900px;
+    margin: 10px auto;
+    background-color: #f8faf9;
+    padding: 0 50px 50px 50px;
+    border: 2px solid black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
